@@ -1,0 +1,6 @@
+framework module Pods_Register_Tests {
+  umbrella header "Pods-Register_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

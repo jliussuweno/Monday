@@ -1,0 +1,16 @@
+PODS:
+  - Register (0.1.0)
+
+DEPENDENCIES:
+  - Register (from `../`)
+
+EXTERNAL SOURCES:
+  Register:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Register: 4e52c779e77a007da8fce0631734993db0e0e730
+
+PODFILE CHECKSUM: 94a9393bf0ac57bc51ef6aa9344e67d03d8528c8
+
+COCOAPODS: 1.10.0
