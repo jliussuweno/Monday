@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of Register.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Jlius Suweno/Register",
+  "homepage": "https://github.com/jliussuweno/Register",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "Jlius Suweno": "jliuss@live.com"
   },
   "source": {
-    "git": "https://github.com/Jlius Suweno/Register.git",
+    "git": "https://github.com/jliussuweno/Register.git",
     "tag": "0.1.0"
   },
   "platforms": {

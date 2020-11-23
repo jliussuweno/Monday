@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of Login.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Jlius Suweno/Login",
+  "homepage": "https://github.com/jliussuweno/Login",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "Jlius Suweno": "jliuss@live.com"
   },
   "source": {
-    "git": "https://github.com/Jlius Suweno/Login.git",
+    "git": "https://github.com/jliussuweno/Login.git",
     "tag": "0.1.0"
   },
   "platforms": {
