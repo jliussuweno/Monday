@@ -1,0 +1,21 @@
+PODS:
+  - Login (0.1.0)
+  - Register (0.1.0)
+
+DEPENDENCIES:
+  - Login (from `DevPods/Login`)
+  - Register (from `DevPods/Register`)
+
+EXTERNAL SOURCES:
+  Login:
+    :path: DevPods/Login
+  Register:
+    :path: DevPods/Register
+
+SPEC CHECKSUMS:
+  Login: 0b7281170f5207528fa82b1d6027246bbca3987a
+  Register: 82ab6aed75a17d297606a87ba49dfbfcad3b7526
+
+PODFILE CHECKSUM: 51759683f004e43c36438758ebb033789410439d
+
+COCOAPODS: 1.10.0

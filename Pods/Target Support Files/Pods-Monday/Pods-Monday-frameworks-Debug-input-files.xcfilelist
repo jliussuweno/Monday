@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Monday/Pods-Monday-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Login/Login.framework
+${BUILT_PRODUCTS_DIR}/Register/Register.framework

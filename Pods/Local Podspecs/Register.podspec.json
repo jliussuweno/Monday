@@ -1,0 +1,28 @@
+{
+  "name": "Register",
+  "version": "0.1.0",
+  "summary": "A short description of Register.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jlius Suweno/Register",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jlius Suweno": "jliuss@live.com"
+  },
+  "source": {
+    "git": "https://github.com/Jlius Suweno/Register.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "14.2"
+  },
+  "source_files": "Register/Module/**/*.{h,m}",
+  "resources": "Register/Module/**/*.{xcassets,json,storyboard,xib,xcdatamodeld}",
+  "resource_bundles": {
+    "Register": [
+      "Register/Module/**/*.{xcassets,json,storyboard,xib,xcdatamodeld}"
+    ]
+  }
+}

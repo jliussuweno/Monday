@@ -1,0 +1,32 @@
+{
+  "name": "Login",
+  "version": "0.1.0",
+  "summary": "A short description of Login.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jlius Suweno/Login",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jlius Suweno": "jliuss@live.com"
+  },
+  "source": {
+    "git": "https://github.com/Jlius Suweno/Login.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "14.2"
+  },
+  "source_files": "Login/Module/**/*.{h,m}",
+  "resources": "Login/Module/**/*.{xcassets,json,storyboard,xib,xcdatamodeld}",
+  "resource_bundles": {
+    "Login": [
+      "Login/Module/**/*.{xcassets,json,storyboard,xib,xcdatamodeld}"
+    ]
+  },
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ]
+}
