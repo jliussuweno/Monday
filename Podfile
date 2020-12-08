@@ -15,6 +15,7 @@ end
 def development_pods
     login_pod
     register_pod
+    pod 'RegisterTemplateIOS13', '~> 0.1'
 end
 
 

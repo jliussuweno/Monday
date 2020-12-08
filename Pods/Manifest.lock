@@ -1,10 +1,16 @@
 PODS:
   - Login (0.1.0)
   - Register (0.1.0)
+  - RegisterTemplateIOS13 (0.1.0)
 
 DEPENDENCIES:
   - Login (from `DevPods/Login`)
   - Register (from `DevPods/Register`)
+  - RegisterTemplateIOS13 (~> 0.1)
+
+SPEC REPOS:
+  trunk:
+    - RegisterTemplateIOS13
 
 EXTERNAL SOURCES:
   Login:
@@ -15,7 +21,8 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Login: a0bd655eac89ff8a71351e34b5bf034f04c858b6
   Register: 265ce363a86e245d29e1db63d5d27c55a60bfb31
+  RegisterTemplateIOS13: 3b1f19f430db60b541c3c8a93f7a6aaa7c822216
 
-PODFILE CHECKSUM: 51759683f004e43c36438758ebb033789410439d
+PODFILE CHECKSUM: b868c41d8e4d3d31f23fd02b26b975ee512c8be6
 
 COCOAPODS: 1.10.0
